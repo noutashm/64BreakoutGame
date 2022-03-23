@@ -1,0 +1,11 @@
+D:\Bachelor of Computing Systems\Semester 2\ISCG6421 - GUI Programming\Assignment\Assignment 2\Assignment2Prj\Assignment2Prj\bin\Release\Assignment2Prj.exe.config
+D:\Bachelor of Computing Systems\Semester 2\ISCG6421 - GUI Programming\Assignment\Assignment 2\Assignment2Prj\Assignment2Prj\bin\Release\Assignment2Prj.exe
+D:\Bachelor of Computing Systems\Semester 2\ISCG6421 - GUI Programming\Assignment\Assignment 2\Assignment2Prj\Assignment2Prj\bin\Release\Assignment2Prj.pdb
+D:\Bachelor of Computing Systems\Semester 2\ISCG6421 - GUI Programming\Assignment\Assignment 2\Assignment2Prj\Assignment2Prj\obj\Release\Assignment2Prj.csproj.AssemblyReference.cache
+D:\Bachelor of Computing Systems\Semester 2\ISCG6421 - GUI Programming\Assignment\Assignment 2\Assignment2Prj\Assignment2Prj\obj\Release\Assignment2Prj.Game.resources
+D:\Bachelor of Computing Systems\Semester 2\ISCG6421 - GUI Programming\Assignment\Assignment 2\Assignment2Prj\Assignment2Prj\obj\Release\Assignment2Prj.Properties.Resources.resources
+D:\Bachelor of Computing Systems\Semester 2\ISCG6421 - GUI Programming\Assignment\Assignment 2\Assignment2Prj\Assignment2Prj\obj\Release\Assignment2Prj.StartForm.resources
+D:\Bachelor of Computing Systems\Semester 2\ISCG6421 - GUI Programming\Assignment\Assignment 2\Assignment2Prj\Assignment2Prj\obj\Release\Assignment2Prj.csproj.GenerateResource.cache
+D:\Bachelor of Computing Systems\Semester 2\ISCG6421 - GUI Programming\Assignment\Assignment 2\Assignment2Prj\Assignment2Prj\obj\Release\Assignment2Prj.csproj.CoreCompileInputs.cache
+D:\Bachelor of Computing Systems\Semester 2\ISCG6421 - GUI Programming\Assignment\Assignment 2\Assignment2Prj\Assignment2Prj\obj\Release\Assignment2Prj.exe
+D:\Bachelor of Computing Systems\Semester 2\ISCG6421 - GUI Programming\Assignment\Assignment 2\Assignment2Prj\Assignment2Prj\obj\Release\Assignment2Prj.pdb
